@@ -4,4 +4,4 @@ and reading, writing and erasing data from SharedPreferences.
 Reference Images for the app-->
 
 
-<img src="https://user-images.githubusercontent.com/53987325/63689715-5b72ad80-c828-11e9-89d1-82bf3df0ba66.jpg"><img src="https://user-images.githubusercontent.com/53987325/63689722-5e6d9e00-c828-11e9-8b4c-f048f36a5aac.png">
+<img src="https://user-images.githubusercontent.com/53987325/63689715-5b72ad80-c828-11e9-89d1-82bf3df0ba66.jpg"><img src="https://user-images.githubusercontent.com/53987325/63689982-231f9f00-c829-11e9-829b-937a4246b6ce.png">
