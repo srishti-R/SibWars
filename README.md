@@ -1,6 +1,5 @@
 # SibWars
-This app was designed by me to resolve a bone of contention between me and my sibling. Basically uses **nested layouts 
-and reading, writing and erasing data from SharedPreferences.**
+This app was designed by me to resolve a bone of contention between me and my sibling. Basically uses **nested layouts, reading, writing and erasing data from SharedPreferences and designed requisite vector graphics using Inkscape.**
 
 Reference Images for the app-->
 
